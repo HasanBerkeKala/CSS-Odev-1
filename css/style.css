@@ -1,0 +1,15 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:#F0EEED;
+}
+#list-center-type {
+    list-style-type: none;
+    text-align: center;
+    margin:0;
+    padding:0;
+}
+.side-by-side {
+   display:inline-block;
+   text-align: center;
+}
